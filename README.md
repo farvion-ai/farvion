@@ -1,10 +1,10 @@
 # Farvion: Free Multilingual AI Assistant
 
-[
+
 
 ![Farvion](https://farvion.my.id/icons/og-image.png)
 
-](https://farvion.my.id)
+(https://farvion.my.id)
 
 **One assistant, whatever language you speak.**
 
@@ -36,11 +36,11 @@ Latest release notes: [farvion.my.id/updates](https://farvion.my.id/updates)
 
 ## 🇮🇩 Bahasa Indonesia
 
-[
+
 
 ![Farvion](https://farvion.my.id/icons/og-image.png)
 
-](https://farvion.my.id)
+(https://farvion.my.id)
 
 **Satu asisten, bahasa apapun yang Anda pakai.**
 
