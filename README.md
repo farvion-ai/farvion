@@ -1,32 +1,46 @@
-# Farvion
+# Farvion: Free Multilingual AI Assistant
 
-> Satu asisten, bahasa apapun yang Anda pakai.
+[
 
-[**Buka Farvion → farvion.my.id**](https://farvion.my.id)
+![Farvion](https://farvion.my.id/icons/og-image.png)
 
-Farvion adalah asisten AI multibahasa gratis untuk mengobrol, menulis, dan membuat kode. Mendukung **Indonesia, English, Español, dan Melayu**.
+](https://farvion.my.id)
 
-Farvion is a free multilingual AI assistant for chatting, writing, and coding.
+**One assistant, whatever language you speak.**
 
-## Fitur / Features
+[**Try Farvion → farvion.my.id**](https://farvion.my.id) · [Features](https://farvion.my.id/fitur) · [Support](https://farvion.my.id/support)
+
+Farvion is a free multilingual AI assistant for chatting, writing, and coding. It speaks **Indonesian, English, Spanish, and Malay**, with more on the way.
+
+## Features
 
 | | |
 |---|---|
-| 🗣️ **Multibahasa asli** | Ngobrol dalam Indonesia, English, Español, atau Melayu |
-| 📞 **Voice call** | Bicara langsung dengan asisten |
-| 🧩 **Artifact interaktif** | Hasil kerja (kode, halaman, dokumen) tampil langsung |
-| 🌦️ **Cuaca real-time** | Tanya cuaca, jawabannya terkini |
+| 🗣️ **Truly multilingual** | Chat in Indonesian, English, Español, or Melayu |
+| 📞 **Voice call** | Talk to the assistant directly |
+| 🧩 **Interactive artifacts** | Code, pages, and documents appear right next to the chat |
+| 🌦️ **Real-time weather** | Ask about the weather and get a current answer |
 
-## Mulai dalam 3 langkah
-1. Buat akun gratis di [farvion.my.id](https://farvion.my.id)
-2. Pilih cara ngobrol: ketik atau voice call
-3. Langsung dipakai
+## Get started in 3 steps
+1. Create a free account at [farvion.my.id](https://farvion.my.id)
+2. Choose how to chat: type or voice call
+3. Start using it right away
 
-## Pembaruan
-Catatan rilis terbaru ada di [farvion.my.id/updates](https://farvion.my.id/updates).
+## Updates
+Latest release notes: [farvion.my.id/updates](https://farvion.my.id/updates)
 
-## Kontak
-Butuh bantuan? Kunjungi [halaman Support](https://farvion.my.id/support) atau email support@farvion.my.id.
+## Contact
+[Support page](https://farvion.my.id/support) · support@farvion.my.id
 
 ---
-Dibuat oleh [@pinzz1018](https://github.com/pinzz1018).
+
+## 🇮🇩 Bahasa Indonesia
+
+**Satu asisten, bahasa apapun yang Anda pakai.**
+
+Farvion adalah asisten AI multibahasa gratis untuk mengobrol, menulis, dan membuat kode. Mendukung Indonesia, English, Español, dan Melayu, dengan voice call, artifact interaktif, dan cuaca real-time.
+
+Mulai gratis di [farvion.my.id](https://farvion.my.id). Daftar fitur lengkap ada di [farvion.my.id/fitur](https://farvion.my.id/fitur).
+
+---
+Built by [@pinzz1018](https://github.com/pinzz1018).
